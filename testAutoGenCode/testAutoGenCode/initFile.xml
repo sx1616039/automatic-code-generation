@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="GBK"?>
+<scenariobase id="ad5a2882-655e-40e6-a0e0-36044d2db91e" name=" ">
+  <scenarioNode bddId="_19_0_2_2c90161_1592726708454_436975_42844" bddDiagram="bbdimage//bbdimage0976e075-62f4-43fc-96bb-c7bb10ac2ea7.uml" modelId="216d8920-03ea-11ec-b5a6-2543384e6214" lon="116.15" lat="39.97" height="100.0" angle="0.0" speed="0.0" camp="red" type="114002" radius="0.0">
+    <variable name="m_id" type="int" value="2"/>
+    <variable name="m_type" type="string" value="PC-3"/>
+    <variable name="m_radius" type="double" value="10000"/>
+  </scenarioNode>
+  <scenarioNode bddId="_19_0_2_2c90161_1592726708454_436975_42844" bddDiagram="bbdimage//bbdimage0976e075-62f4-43fc-96bb-c7bb10ac2ea7.uml" modelId="25c57190-03ea-11ec-b5a6-2543384e6214" lon="116.4" lat="39.8" height="100.0" angle="0.0" speed="0.0" camp="red" type="114002" radius="0.0">
+    <variable name="m_id" type="int" value="4"/>
+    <variable name="m_type" type="string" value="PC-3"/>
+    <variable name="m_radius" type="double" value="10000"/>
+  </scenarioNode>
+  <scenarioNode bddId="_19_0_2_2c90161_1592726708454_436975_42844" bddDiagram="bbdimage//bbdimage0976e075-62f4-43fc-96bb-c7bb10ac2ea7.uml" modelId="288b6f60-03ea-11ec-b5a6-2543384e6214" lon="116.08" lat="39.86" height="100.0" angle="0.0" speed="0.0" camp="red" type="114002" radius="0.0">
+    <variable name="m_id" type="int" value="5"/>
+    <variable name="m_type" type="string" value="THAAD"/>
+    <variable name="m_radius" type="double" value="50000"/>
+  </scenarioNode>
+  <scenarioNode bddId="_19_0_2_2c90161_1592726708454_436975_42844" bddDiagram="bbdimage//bbdimage0976e075-62f4-43fc-96bb-c7bb10ac2ea7.uml" modelId="23bf8f70-03ea-11ec-b5a6-2543384e6214" lon="116.38" lat="39.9" height="100.0" angle="0.0" speed="0.0" camp="red" type="114002" radius="0.0">
+    <variable name="m_id" type="int" value="3"/>
+    <variable name="m_type" type="string" value="PC-3"/>
+    <variable name="m_radius" type="double" value="10000"/>
+  </scenarioNode>
+  <scenarioNode bddId="_19_0_2_2c90161_1592726708454_436975_42844" bddDiagram="bbdimage//bbdimage0976e075-62f4-43fc-96bb-c7bb10ac2ea7.uml" modelId="2a6ab6b0-03ea-11ec-b5a6-2543384e6214" lon="116.29" lat="39.9" height="100.0" angle="0.0" speed="0.0" camp="red" type="114002" radius="0.0">
+    <variable name="m_id" type="int" value="1"/>
+    <variable name="m_type" type="string" value="PC-3"/>
+    <variable name="m_radius" type="double" value="10000"/>
+  </scenarioNode>
+  <scenarioNode bddId="_19_0_2_2c90161_1592726708454_436975_42844" bddDiagram="bbdimage//bbdimage0976e075-62f4-43fc-96bb-c7bb10ac2ea7.uml" modelId="22a56ce0-03ea-11ec-b5a6-2543384e6214" lon="116.45" lat="39.9" height="100.0" angle="0.0" speed="0.0" camp="red" type="114002" radius="0.0">
+    <variable name="m_id" type="int" value="0"/>
+    <variable name="m_type" type="string" value="PC-3"/>
+    <variable name="m_radius" type="double" value="10000"/>
+  </scenarioNode>
+  <scenarioNode bddId="_19_0_2_2c90161_1592726708454_436975_42844" bddDiagram="bbdimage//bbdimage0976e075-62f4-43fc-96bb-c7bb10ac2ea7.uml" modelId="27091520-03ea-11ec-b5a6-2543384e6214" lon="116.29" lat="39.72" height="100.0" angle="0.0" speed="0.0" camp="red" type="114002" radius="0.0">
+    <variable name="m_id" type="int" value="6"/>
+    <variable name="m_type" type="string" value="THAAD"/>
+    <variable name="m_radius" type="double" value="50000"/>
+  </scenarioNode>
+  <scenarioNode bddId="_19_0_2_2c90161_1595399754417_476504_42076" bddDiagram="bbdimage//bbdimagee62b9a75-083a-41d8-bacc-0bbebdde00cc.uml" modelId="1473d990-03ea-11ec-b5a6-2543384e6214" lon="79.7" lat="26.2" height="100" angle="0.0" speed="0.0" camp="blue" type="114002" radius="0.0">
+    <variable name="m_totalFlyTime" type="double" value="1000"/>
+    <variable name="m_id" type="int" value="1"/>
+    <variable name="m_fallSite" type="CVector" value="116.30,39.91,100"/>
+    <variable name="m_lnchTime" type="double" value="11"/>
+  </scenarioNode>
+  <scenarioNode bddId="_19_0_2_2c90161_1595399754417_476504_42076" bddDiagram="bbdimage//bbdimagee62b9a75-083a-41d8-bacc-0bbebdde00cc.uml" modelId="17df8d40-03ea-11ec-b5a6-2543384e6214" lon="79.7" lat="26.2" height="100.0" angle="0.0" speed="0.0" camp="blue" type="114002" radius="0.0">
+    <variable name="m_totalFlyTime" type="double" value="1000"/>
+    <variable name="m_id" type="int" value="3"/>
+    <variable name="m_fallSite" type="CVector" value="116.39,39.91,100"/>
+    <variable name="m_lnchTime" type="double" value="33"/>
+  </scenarioNode>
+  <scenarioNode bddId="_19_0_2_2c90161_1595399754417_476504_42076" bddDiagram="bbdimage//bbdimagee62b9a75-083a-41d8-bacc-0bbebdde00cc.uml" modelId="0e2af690-03ea-11ec-b5a6-2543384e6214" lon="79.7" lat="26.2" height="100" angle="0.0" speed="0.0" camp="blue" type="114002" radius="0.0">
+    <variable name="m_lnchPos" type="CVector" value=""/>
+    <variable name="m_totalFlyTime" type="double" value="1000"/>
+    <variable name="m_id" type="int" value="0"/>
+    <variable name="m_fallSite" type="CVector" value="116.46,39.91,100"/>
+    <variable name="m_lnchTime" type="double" value="0"/>
+  </scenarioNode>
+  <scenarioNode bddId="_19_0_2_2c90161_1595399754417_476504_42076" bddDiagram="bbdimage//bbdimagee62b9a75-083a-41d8-bacc-0bbebdde00cc.uml" modelId="1faec220-03ea-11ec-b5a6-2543384e6214" lon="79.7" lat="26.2" height="100" angle="0.0" speed="0.0" camp="blue" type="114002" radius="0.0">
+    <variable name="m_totalFlyTime" type="double" value="1000"/>
+    <variable name="m_id" type="int" value="4"/>
+    <variable name="m_fallSite" type="CVector" value="116.41,39.91,100"/>
+    <variable name="m_lnchTime" type="double" value="44"/>
+  </scenarioNode>
+  <scenarioNode bddId="_19_0_2_2c90161_1595399754417_476504_42076" bddDiagram="bbdimage//bbdimagee62b9a75-083a-41d8-bacc-0bbebdde00cc.uml" modelId="162903a0-03ea-11ec-b5a6-2543384e6214" lon="79.7" lat="26.2" height="100" angle="0.0" speed="0.0" camp="blue" type="114002" radius="0.0">
+    <variable name="m_totalFlyTime" type="double" value="1000"/>
+    <variable name="m_id" type="int" value="2"/>
+    <variable name="m_fallSite" type="CVector" value="116.16,39.98,100"/>
+    <variable name="m_lnchTime" type="double" value="22"/>
+  </scenarioNode>
+</scenariobase>
